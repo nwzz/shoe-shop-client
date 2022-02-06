@@ -1,7 +1,7 @@
 {
   "name": "shoe-shop-client",
   "version": "0.1.0",
-  "homepage": "https://nwzz.github.io/shoe-shop-client",
+  "homepage": "https://nwzz.github.io/shoe-shop-client/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run deploy",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
