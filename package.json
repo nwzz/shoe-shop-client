@@ -1,7 +1,7 @@
 {
   "name": "shoe-shop-client",
   "version": "0.1.0",
-  "homepage": "https://nwzz.github.io/",
+  "homepage": "https://nwzz.github.io/shoe-shop-client/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.3",
