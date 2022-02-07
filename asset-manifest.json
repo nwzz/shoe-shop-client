@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.20bf3603.css",
-    "main.js": "/static/js/main.9d9d4097.js",
-    "static/js/62.37d0a943.chunk.js": "/static/js/62.37d0a943.chunk.js",
-    "static/js/195.4869a412.chunk.js": "/static/js/195.4869a412.chunk.js",
-    "static/js/225.4d6f6f35.chunk.js": "/static/js/225.4d6f6f35.chunk.js",
-    "static/js/350.1a5e2d39.chunk.js": "/static/js/350.1a5e2d39.chunk.js",
-    "static/js/787.7c978a1d.chunk.js": "/static/js/787.7c978a1d.chunk.js",
-    "static/js/107.dbbd39b2.chunk.js": "/static/js/107.dbbd39b2.chunk.js",
-    "static/js/577.2ff85eb3.chunk.js": "/static/js/577.2ff85eb3.chunk.js",
-    "index.html": "/index.html",
-    "main.20bf3603.css.map": "/static/css/main.20bf3603.css.map",
-    "main.9d9d4097.js.map": "/static/js/main.9d9d4097.js.map",
-    "62.37d0a943.chunk.js.map": "/static/js/62.37d0a943.chunk.js.map",
-    "195.4869a412.chunk.js.map": "/static/js/195.4869a412.chunk.js.map",
-    "225.4d6f6f35.chunk.js.map": "/static/js/225.4d6f6f35.chunk.js.map",
-    "350.1a5e2d39.chunk.js.map": "/static/js/350.1a5e2d39.chunk.js.map",
-    "787.7c978a1d.chunk.js.map": "/static/js/787.7c978a1d.chunk.js.map",
-    "107.dbbd39b2.chunk.js.map": "/static/js/107.dbbd39b2.chunk.js.map",
-    "577.2ff85eb3.chunk.js.map": "/static/js/577.2ff85eb3.chunk.js.map"
+    "main.css": "/shoe-shop-client/static/css/main.20bf3603.css",
+    "main.js": "/shoe-shop-client/static/js/main.e50ea29e.js",
+    "static/js/62.37d0a943.chunk.js": "/shoe-shop-client/static/js/62.37d0a943.chunk.js",
+    "static/js/195.e72f1698.chunk.js": "/shoe-shop-client/static/js/195.e72f1698.chunk.js",
+    "static/js/225.4f732faf.chunk.js": "/shoe-shop-client/static/js/225.4f732faf.chunk.js",
+    "static/js/350.43e0bd6d.chunk.js": "/shoe-shop-client/static/js/350.43e0bd6d.chunk.js",
+    "static/js/787.7c978a1d.chunk.js": "/shoe-shop-client/static/js/787.7c978a1d.chunk.js",
+    "static/js/107.dbbd39b2.chunk.js": "/shoe-shop-client/static/js/107.dbbd39b2.chunk.js",
+    "static/js/577.2ff85eb3.chunk.js": "/shoe-shop-client/static/js/577.2ff85eb3.chunk.js",
+    "index.html": "/shoe-shop-client/index.html",
+    "main.20bf3603.css.map": "/shoe-shop-client/static/css/main.20bf3603.css.map",
+    "main.e50ea29e.js.map": "/shoe-shop-client/static/js/main.e50ea29e.js.map",
+    "62.37d0a943.chunk.js.map": "/shoe-shop-client/static/js/62.37d0a943.chunk.js.map",
+    "195.e72f1698.chunk.js.map": "/shoe-shop-client/static/js/195.e72f1698.chunk.js.map",
+    "225.4f732faf.chunk.js.map": "/shoe-shop-client/static/js/225.4f732faf.chunk.js.map",
+    "350.43e0bd6d.chunk.js.map": "/shoe-shop-client/static/js/350.43e0bd6d.chunk.js.map",
+    "787.7c978a1d.chunk.js.map": "/shoe-shop-client/static/js/787.7c978a1d.chunk.js.map",
+    "107.dbbd39b2.chunk.js.map": "/shoe-shop-client/static/js/107.dbbd39b2.chunk.js.map",
+    "577.2ff85eb3.chunk.js.map": "/shoe-shop-client/static/js/577.2ff85eb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20bf3603.css",
-    "static/js/main.9d9d4097.js"
+    "static/js/main.e50ea29e.js"
   ]
 }
